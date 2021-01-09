@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/gauthierrodaro/tailwind-config/compare/v1.0.0...v1.0.1) (2021-01-09)
+
+
+### Bug Fixes
+
+* attempt workflow 2 ([f775882](https://github.com/gauthierrodaro/tailwind-config/commit/f775882079830ca3691bcefd81bb2d1190682a37))
+
 # 1.0.0 (2021-01-09)
 
 

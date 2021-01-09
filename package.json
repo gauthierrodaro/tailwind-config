@@ -1,6 +1,6 @@
 {
   "name": "@gaut/tailwind-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tailwind configuration I used across most of my projects",
   "main": "src/tailwind-config.js",
   "repository": "https://github.com/gauthierrodaro/tailwind-config",
