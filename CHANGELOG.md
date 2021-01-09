@@ -1,3 +1,12 @@
+## [1.0.2](https://github.com/gauthierrodaro/tailwind-config/compare/v1.0.1...v1.0.2) (2021-01-09)
+
+
+### Bug Fixes
+
+* add missing package to workflow ([eadc426](https://github.com/gauthierrodaro/tailwind-config/commit/eadc426355080454c245060358e4a0892810dc8a))
+* clean up ([6670bba](https://github.com/gauthierrodaro/tailwind-config/commit/6670bba62d886e41529f606eab84ae6db599c2a3))
+* missing cmd ([463b679](https://github.com/gauthierrodaro/tailwind-config/commit/463b67978276359f6c06f5807155de4faa71764d))
+
 ## [1.0.1](https://github.com/gauthierrodaro/tailwind-config/compare/v1.0.0...v1.0.1) (2021-01-09)
 
 
