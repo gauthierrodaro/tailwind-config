@@ -2,7 +2,7 @@
   "name": "@gaut/tailwind-config",
   "version": "1.0.2",
   "description": "Tailwind configuration I used across most of my projects",
-  "main": "src/tailwind-config.js",
+  "main": "src/tailwind.config.js",
   "repository": "https://github.com/gauthierrodaro/tailwind-config",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
