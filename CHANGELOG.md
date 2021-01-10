@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/gauthierrodaro/tailwind-config/compare/v1.0.2...v1.0.3) (2021-01-10)
+
+
+### Bug Fixes
+
+* spelling config file ([87f4449](https://github.com/gauthierrodaro/tailwind-config/commit/87f444967cfc769a6f10431d8286949867920410))
+
 ## [1.0.2](https://github.com/gauthierrodaro/tailwind-config/compare/v1.0.1...v1.0.2) (2021-01-09)
 
 
