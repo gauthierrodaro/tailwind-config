@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/gauthierrodaro/tailwind-config/compare/v1.1.0...v1.1.1) (2021-01-11)
+
+
+### Bug Fixes
+
+* add missing colors ([44ed810](https://github.com/gauthierrodaro/tailwind-config/commit/44ed810ef5bf5f40d96edbfe2155e94402d7cc93))
+
 # [1.1.0](https://github.com/gauthierrodaro/tailwind-config/compare/v1.0.3...v1.1.0) (2021-01-11)
 
 
