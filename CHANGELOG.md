@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/gauthierrodaro/tailwind-config/compare/v1.0.3...v1.1.0) (2021-01-11)
+
+
+### Features
+
+* add peer dependencies and default plugins ([7765066](https://github.com/gauthierrodaro/tailwind-config/commit/7765066326fdb378e662df7665613a50ed0e3876))
+
 ## [1.0.3](https://github.com/gauthierrodaro/tailwind-config/compare/v1.0.2...v1.0.3) (2021-01-10)
 
 
