@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/gauthierrodaro/tailwind-config/compare/v1.1.1...v1.1.2) (2021-01-11)
+
+
+### Bug Fixes
+
+* not expanding the colors ([8b67b00](https://github.com/gauthierrodaro/tailwind-config/commit/8b67b003129ec814df4658cacdfb0c21cce1d9aa))
+
 ## [1.1.1](https://github.com/gauthierrodaro/tailwind-config/compare/v1.1.0...v1.1.1) (2021-01-11)
 
 
