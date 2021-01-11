@@ -1,3 +1,5 @@
+const defaultTheme = require("tailwindcss/defaultTheme")
+
 module.exports = {
   darkMode: "class",
   theme: {
@@ -18,6 +20,9 @@ module.exports = {
           900: "#18181b",
           950: "#111113",
         },
+      },
+      fontFamily: {
+        sans: ["Inter var", ...defaultTheme.fontFamily.sans],
       },
       fontSize: {
         "2xs": "0.5rem",
@@ -121,6 +126,8 @@ module.exports = {
     },
   },
   plugins: [
+    require("@tailwindcss/forms"),
+    require("@tailwindcss/typography"),
     interFontFace,
     fontAwesomeFontFace,
     overflowMask,
