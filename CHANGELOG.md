@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/gauthierrodaro/tailwind-config/compare/v1.1.2...v1.2.0) (2021-01-14)
+
+
+### Features
+
+* make font optionnal and remove darkM plugin ([acd02e1](https://github.com/gauthierrodaro/tailwind-config/commit/acd02e13ec1a3c2f130ae43805d0ad508fe00c17))
+
 ## [1.1.2](https://github.com/gauthierrodaro/tailwind-config/compare/v1.1.1...v1.1.2) (2021-01-11)
 
 
