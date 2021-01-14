@@ -134,7 +134,6 @@ module.exports = {
     fontAwesomeFontFace,
     overflowMask,
     checkboxFix,
-    darkMode,
   ],
 }
 
@@ -146,8 +145,8 @@ function interFontFace({ addBase }) {
         fontWeight: "100 900",
         fontStyle: "normal",
         fontNamedInstance: "Regular",
-        fontDisplay: "swap",
-        src: 'url("/fonts/Inter-roman.var-latin.woff2?3.13") format("woff2")',
+        fontDisplay: "optional",
+        src: 'url("/fonts/Inter-roman.var-latin.woff2") format("woff2")',
       },
     },
     {
@@ -156,8 +155,8 @@ function interFontFace({ addBase }) {
         fontWeight: "100 900",
         fontStyle: "italic",
         fontNamedInstance: "Italic",
-        fontDisplay: "swap",
-        src: 'url("/fonts/Inter-italic.var-latin.woff2?3.13") format("woff2")',
+        fontDisplay: "optional",
+        src: 'url("/fonts/Inter-italic.var-latin.woff2") format("woff2")',
       },
     },
   ])
@@ -292,19 +291,6 @@ function checkboxFix({ addBase }) {
         "background-size": "100% 100%",
         "background-position": "center",
         "background-repeat": "no-repeat",
-      },
-    },
-  ])
-}
-
-function darkMode({ addBase, addComponents, theme }) {
-  addBase([
-    {
-      "::selection": {
-        background: theme("colors.primary.300"),
-      },
-      ".dark ::selection": {
-        background: theme("colors.primary.500"),
       },
     },
   ])
