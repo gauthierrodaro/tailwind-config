@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/gauthierrodaro/tailwind-config/compare/v1.2.0...v1.2.1) (2021-01-16)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @tailwindcss/typography to ^0.4.0 ([85dff72](https://github.com/gauthierrodaro/tailwind-config/commit/85dff72cf19ad5867a5fe213fbf67eb1a6226759))
+
 # [1.2.0](https://github.com/gauthierrodaro/tailwind-config/compare/v1.1.2...v1.2.0) (2021-01-14)
 
 
