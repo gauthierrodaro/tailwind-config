@@ -13,7 +13,7 @@
   "author": "Gauthier Rodaro",
   "license": "MIT",
   "dependencies": {
-    "@tailwindcss/forms": "^0.2.1",
+    "@tailwindcss/forms": "^0.3.0",
     "@tailwindcss/typography": "^0.4.0"
   },
   "peerDependencies": {
